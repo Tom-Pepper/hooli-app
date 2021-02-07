@@ -1,1 +1,4 @@
-# hooli-app
+# Hooli. The meal helper
+
+In progress.
+

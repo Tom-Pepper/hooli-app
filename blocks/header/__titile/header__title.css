@@ -1,0 +1,15 @@
+.header__title {
+  color: lightyellow;
+  margin: 0;
+  padding-top: 18px;
+  display: flex;
+
+  text-align: center;
+  align-items: center;
+}
+
+@media screen and (max-width: 425px) {
+  .header__title {
+    font-size: 38px;
+  }
+}
